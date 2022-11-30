@@ -1,0 +1,28 @@
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\DataAccess\bin\Debug\Entities.dll
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\DataAccess\bin\Debug\Entities.pdb
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\DataAccess\bin\Debug\Entities.dll
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\DataAccess\bin\Debug\Entities.pdb
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\DataAccess\obj\Debug\DataAccess.pdb

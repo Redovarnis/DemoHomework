@@ -1,0 +1,28 @@
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\Business\bin\Debug\Business.dll
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\Business\bin\Debug\Business.pdb
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\Business\bin\Debug\DataAccess.dll
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\Business\bin\Debug\Entities.dll
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\Business\bin\Debug\EntityFramework.dll
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\Business\bin\Debug\DataAccess.pdb
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\Business\bin\Debug\DataAccess.dll.config
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\Business\bin\Debug\Entities.pdb
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\Business\bin\Debug\EntityFramework.xml
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\Business\obj\Debug\Business.dll
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\Business\obj\Debug\Business.pdb
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\Business\bin\Debug\Business.dll
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\Business\bin\Debug\Business.pdb
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\Business\bin\Debug\DataAccess.dll
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\Business\bin\Debug\Entities.dll
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\Business\bin\Debug\EntityFramework.dll
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\Business\bin\Debug\DataAccess.pdb
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\Business\bin\Debug\DataAccess.dll.config
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\Business\bin\Debug\Entities.pdb
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\Business\bin\Debug\EntityFramework.xml
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\Business\obj\Debug\Business.dll
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\Business\obj\Debug\Business.pdb

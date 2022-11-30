@@ -1,0 +1,46 @@
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\bin\Debug\WebFormsUI.exe.config
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\bin\Debug\WebFormsUI.exe
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\bin\Debug\WebFormsUI.pdb
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\bin\Debug\Business.dll
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\bin\Debug\Entities.dll
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\bin\Debug\EntityFramework.dll
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\bin\Debug\DataAccess.dll
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\bin\Debug\Business.pdb
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\bin\Debug\Entities.pdb
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\bin\Debug\EntityFramework.xml
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\bin\Debug\DataAccess.pdb
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\bin\Debug\DataAccess.dll.config
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\obj\Debug\WebFormsUI.csproj.AssemblyReference.cache
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\obj\Debug\WebFormsUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\obj\Debug\WebFormsUI.Form1.resources
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\obj\Debug\WebFormsUI.Properties.Resources.resources
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\obj\Debug\WebFormsUI.csproj.GenerateResource.cache
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\obj\Debug\WebFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\obj\Debug\WebFormsUI.csproj.CopyComplete
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\obj\Debug\WebFormsUI.exe
+C:\Users\cihan\OneDrive\Masaüstü\C# .Net\Visual Programming\NLayeredAppDemo\WebFormsUI\obj\Debug\WebFormsUI.pdb
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\bin\Debug\WebFormsUI.exe.config
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\bin\Debug\WebFormsUI.exe
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\bin\Debug\WebFormsUI.pdb
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\bin\Debug\Business.dll
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\bin\Debug\DataAccess.dll
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\bin\Debug\Entities.dll
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\bin\Debug\EntityFramework.dll
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\bin\Debug\Business.pdb
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\bin\Debug\DataAccess.pdb
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\bin\Debug\DataAccess.dll.config
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\bin\Debug\Entities.pdb
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\bin\Debug\EntityFramework.xml
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\obj\Debug\WebFormsUI.csproj.AssemblyReference.cache
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\obj\Debug\WebFormsUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\obj\Debug\WebFormsUI.Form1.resources
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\obj\Debug\WebFormsUI.Properties.Resources.resources
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\obj\Debug\WebFormsUI.csproj.GenerateResource.cache
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\obj\Debug\WebFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\obj\Debug\WebFormsUI.csproj.CopyComplete
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\obj\Debug\WebFormsUI.exe
+C:\Users\cihan\OneDrive\Masaüstü\NLayeredAppDemo\WebFormsUI\obj\Debug\WebFormsUI.pdb
